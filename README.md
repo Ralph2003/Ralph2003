@@ -1,8 +1,8 @@
 ### Hi there 👋
-My name is Ralph Goffart Winkin, I am a civil engineering student at [l'école Polytechnique de Louvain](https://uclouvain.be/fr/index.html) currently doing a gap year in Japan, during which I also happen to take Harvard's CS50 course.
+My name is Ralph Goffart Winkin, I am a civil engineering student at **[l'école Polytechnique de Louvain](https://uclouvain.be/fr/index.html)** currently doing a gap year in Japan, during which I also happen to take Harvard's CS50 course.
 
 
-- 🔭 I’m currently working on my website and [CS50's final project](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0).
+- 🔭 I’m currently working on my website and **[CS50's final project](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)**.
 - 🌱 My interests include Aeronautics and Space engineering, but also learning languages.
 <!--
 **Ralph2003/Ralph2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
