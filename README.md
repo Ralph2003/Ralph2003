@@ -3,7 +3,9 @@ My name is Ralph Goffart Winkin, I am a civil engineering student at **[l'école
 
 
 - 🔭 I’m currently working on my website and **[CS50's final project](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)**.
-- 🌱 My interests include Aeronautics and Space engineering, but also learning languages.
+- 🌱 My interests include Computer Science, Aeronautics, Space engineering, but also learning languages. 
+- 🌱 I speak French, English and Japanese(N2), and am currently learning Chinese.
+- 
 <!--
 **Ralph2003/Ralph2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
