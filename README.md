@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ralph Goffart Winkin, I am a civil engineering student at **[l'école Polytechnique de Louvain](https://uclouvain.be/fr/index.html)** currently doing a gap year in Japan, during which I also happen to take Harvard's CS50 course.
+My name is Ralph Goffart Winkin, I am a civil engineering student in my 3rd year at **[l'école Polytechnique de Louvain](https://uclouvain.be/fr/index.html)**.
 
 
 - 🔭 I’m currently working on my website and **[CS50's final project](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)**.
